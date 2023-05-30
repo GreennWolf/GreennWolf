@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I'm an 18-year-old boy in love with programming, so I did my first code at 8 years old and from that moment I didn't stop until at least I was able to do good things on my own, my goals are to learn as much as possible and advance in this video game called life
+Hello, I'm Juan, an 18-year-old individual who embarked on a journey into the world of computer science at the age of 8. Starting with GameMaker, I progressed to Unity and further honed my skills through technical schooling, where my focus shifted towards programming. Alongside my formal education, I took the initiative to learn Python, HTML, CSS, JS, C#, C++, and several other programming languages independently, allowing me to work on diverse projects in different language ecosystems.
+
+Thanks to my aptitude for quick learning and my relentless pursuit of improvement, I have successfully completed various projects spanning multiple languages. This experience has not only refined my technical skills but also fostered a problem-solving mindset that is effective and results-oriented.
+
+Currently, I am delving into the world of Godot as it captures my interest. I am eager to expand my proficiency in this game engine. Furthermore, I am seeking professional opportunities that will enable me to collaborate with industry experts and broaden my horizons in a challenging work environment.
+
+I firmly believe in continuous growth and development within the programming field. Therefore, I am keen on receiving external feedback to assess my skill levels and gain an objective perspective on my progress. My ultimate goal is to continue evolving as a programmer and contribute innovative solutions to technological challenges.
+
+Please feel free to reach out if you are interested in exciting collaborations or if you have any questions regarding my skills and experiences.
 
 * ✉️  You can contact me at [juanmanuelrc@live.com.ar](mailto:juanmanuelrc@live.com.ar)
 * 🧠  I'm learning Java
